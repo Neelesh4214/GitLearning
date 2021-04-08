@@ -1,1 +1,1 @@
-This is File1 for git project and is modified now.
+This is new version of File1.
